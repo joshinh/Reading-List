@@ -6,6 +6,7 @@
 - [Analysis Methods in Neural Language Processing: A Survey](https://arxiv.org/pdf/1812.08951.pdf)
 
 ### Model Evaluation
+- [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://homes.cs.washington.edu/~marcotcr/acl20_checklist.pdf)
 - [Evaluating NLP Models via Contrast Sets](https://arxiv.org/pdf/2004.02709.pdf)
 - [BERTScore: Evaluating Text Generation with BERT](https://arxiv.org/pdf/1904.09675.pdf)
 - [BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/pdf/2004.04696.pdf)
