@@ -18,4 +18,7 @@
 - [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://arxiv.org/pdf/1908.07125.pdf)
 - [Seq2Sick: Evaluating the Robustness of Sequence-to-Sequence Models with Adversarial Examples](https://arxiv.org/pdf/1803.01128.pdf)
 
+### Theme Paper
+- [The Unstoppable Rise of Computational Linguistics in Deep Learning](https://arxiv.org/pdf/2005.06420.pdf)
+
 
