@@ -22,6 +22,8 @@
 - [The Unstoppable Rise of Computational Linguistics in Deep Learning](https://arxiv.org/pdf/2005.06420.pdf)
 - [How Can We Accelerate Progress Towards Human-like Linguistic Generalization?](https://arxiv.org/pdf/2005.00955.pdf)
 - [A Call for More Rigor in Unsupervised Cross-lingual Learning](https://arxiv.org/pdf/2004.14958.pdf)
-
+- [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://openreview.net/pdf?id=GKTvAcb12b)
+- [Language (Re)modelling: Towards Embodied Language Understanding](https://arxiv.org/pdf/2005.00311.pdf)
+- [To Test Machine Comprehension, Start by Defining Comprehension](https://arxiv.org/pdf/2005.01525.pdf)
 
 
